@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+}
+.jumbotron{
+    background: black;
+    color:lightgreen;
+    font-size: 100px;
+    text-align:center;
+    font-family:serif;
+    border:black
+    
+}
+.navbar-nav li{
+    color:#d4f25f;
+    opacity:100%;
+    margin-left: 20px;
+    
+}
+.navbar-nav li{
+    color:aquamarine;
+}
+.nav{
+    background-color: #232323;
+}
+#MainSectionBelowNav{
+    padding-top:20px;
+    
+}
+.nav-pills li{
+    background-color:#212121;
+}
+.nav-pills li a{
+    color:burlywood;
+}
+.nav-pills li a:hover{
+    background-color:#ffffff;
+    color:darkolivegreen;
+}
+#sidecol{
+    border-radius: 20px;
+    margin-top:35px;
+    margin-left:0px;
+}
+.jumboheading{
+    background: #555555 ;
+    margin:30px;
+    border-radius:30px;
+    
+}
+#mainheading{
+    text-align: center;
+    padding:30px;
+    font-family: serif;
+    color:beige;
+    font-size: 50px;
+}
+#newsheading{
+    color:#999999;
+}
+.newslist{
+    list-style-type: none;
+    margin-left:0px;
+    margin-top:30px;
+    text-align:left;
+}
+.newslist p a{
+    color:yellow;
+    font-family: times new roman;
+    margin-top:20px;
+}
+.newslist p a:hover{
+    color:orangered;
+    text-decoration: none;
+}
+.container article p{
+    color:antiquewhite;
+    display: inline-block;
+}
+.container article img{
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 250px;
+    width: 280px;
+    margin-right: 50px;
+    float:left;
+}
+#mainarticles p{
+    
+    max-width:800px;
+}
+
+

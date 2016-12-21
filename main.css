@@ -1,0 +1,60 @@
+.jumbotron h1,p{
+    text-align: center;
+    
+}
+.list-group a h2{
+    color:darkslategray;
+    padding:20px;
+    text-decoration: none;
+}
+.list-group a{
+    text-decoration: none;
+    border-radius: 20px;
+}
+.list-group a h2:hover{
+    background-color:#000;
+    color:#cccccc;
+    padding:20px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.list-group a h2:visited{
+    color:darkslategray;
+    padding:20px;
+    text-decoration: none;
+}
+.list-group a h2:active{
+    background-color:#000;
+    color:#ffffff;
+    padding:20px;
+    text-decoration: none;
+}
+.list-group a h4{
+    text-align: center;
+}
+#active-nav{
+    background:black;
+    color:#ffffff;
+}
+.affix{
+    width:1250px;
+    top:0;
+    position:fixed;
+}
+ .affix + .container-fluid {
+      padding-top: 50px;
+  }
+#maincontentheading{
+    color:blue;
+    background-color:#eeeeee;
+    border-left:4px solid red;
+    padding :20px;
+    margin-top:30px;
+}
+.panel-group {
+    margin-top:50px;
+    margin-left:auto;
+}
+
+
+ 
